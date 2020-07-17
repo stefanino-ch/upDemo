@@ -6,5 +6,5 @@ class ClientConfig(object):
     COMPANY_NAME = 'Laboratory'
     HTTP_TIMEOUT = 30
     MAX_DOWNLOAD_RETRIES = 1
-    UPDATE_URLS = ['http://127.0.0.1:50382']
+    UPDATE_URLS = ['http://192.168.0.14:80']
     APP_VERSION = up.__version__
