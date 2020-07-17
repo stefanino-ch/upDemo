@@ -1,5 +1,6 @@
 .pyupdater
 __pycache__
+pyu-data
 pyu-data/files
 pyu-data/new
 pyu-data/deploy
